@@ -12,7 +12,7 @@
 <br>
 
 - I am **SysAdmin** in Healthcare Sector
-- A [YOUTUBER](https://www.youtube.com/@mapdr3190)
+- A [Youtuber](https://www.youtube.com/@mapdr3190)
 - OpenSource Enhusiast.
 - A passionate Self-taught Fullstack developer
 - Currently moving towards CyberSecurity
