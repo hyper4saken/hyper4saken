@@ -21,4 +21,4 @@
   - Java
   - Javascript    
 - Currently moving towards CyberSecurity
-- Personal website [MAPDR Official](https://mapdr.tech)
+- Personal website [MAPDR Official](https://imapdr.com)
